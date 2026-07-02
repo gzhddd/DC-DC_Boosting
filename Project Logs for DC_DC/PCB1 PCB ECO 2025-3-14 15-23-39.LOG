@@ -1,0 +1,79 @@
+Added Component: Designator=C1(0603C)
+Added Component: Designator=C2(1206C)
+Added Component: Designator=C3(1206C)
+Added Component: Designator=C4(0603C)
+Added Component: Designator=C5(0603C)
+Added Component: Designator=C6(0603C)
+Added Component: Designator=C7(0805c)
+Added Component: Designator=C8(0805c)
+Added Component: Designator=C9(0805c)
+Added Component: Designator=D1(SMA)
+Added Component: Designator=MP2315S(MP2315_PCB)
+Added Component: Designator=R1(0603R)
+Added Component: Designator=R2(0603R)
+Added Component: Designator=R3(0603R)
+Added Component: Designator=R4(0603R)
+Added Component: Designator=R5(0603R)
+Added Component: Designator=R6(0603R)
+Added Component: Designator=R7(0603R)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=+12V Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=+12V Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=+12V Pin=C3-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=NetC5_1 Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=NetC6_1 Pin=C6-1
+Added Pin To Net: NetName=+5V Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+5V Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=+5V Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=+12V Pin=D1-2
+Added Pin To Net: NetName=NetMP2315S_1 Pin=MP2315S-1
+Added Pin To Net: NetName=+12V Pin=MP2315S-2
+Added Pin To Net: NetName=NetC5_2 Pin=MP2315S-3
+Added Pin To Net: NetName=GND Pin=MP2315S-4
+Added Pin To Net: NetName=NetMP2315S_5 Pin=MP2315S-5
+Added Pin To Net: NetName=NetMP2315S_6 Pin=MP2315S-6
+Added Pin To Net: NetName=NetC4_1 Pin=MP2315S-7
+Added Pin To Net: NetName=NetMP2315S_8 Pin=MP2315S-8
+Added Pin To Net: NetName=+12V Pin=R1-1
+Added Pin To Net: NetName=NetMP2315S_6 Pin=R1-2
+Added Pin To Net: NetName=NetMP2315S_1 Pin=R2-1
+Added Pin To Net: NetName=NetC4_1 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetMP2315S_1 Pin=R3-2
+Added Pin To Net: NetName=NetMP2315S_5 Pin=R4-1
+Added Pin To Net: NetName=NetC5_1 Pin=R4-2
+Added Pin To Net: NetName=NetMP2315S_8 Pin=R5-1
+Added Pin To Net: NetName=NetC6_1 Pin=R5-2
+Added Pin To Net: NetName=NetC6_1 Pin=R6-1
+Added Pin To Net: NetName=+5V Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-1
+Added Pin To Net: NetName=NetC6_1 Pin=R7-2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 0.1uf
+Added Member To Class: ClassName=Sheet1 Member=Component C2 22uf
+Added Member To Class: ClassName=Sheet1 Member=Component C3 N/A
+Added Member To Class: ClassName=Sheet1 Member=Component C4 0.1uf
+Added Member To Class: ClassName=Sheet1 Member=Component C5 0.1uf
+Added Member To Class: ClassName=Sheet1 Member=Component C6 33pf
+Added Member To Class: ClassName=Sheet1 Member=Component C7 22uf
+Added Member To Class: ClassName=Sheet1 Member=Component C8 22uf
+Added Member To Class: ClassName=Sheet1 Member=Component C9 N/A
+Added Member To Class: ClassName=Sheet1 Member=Component D1 SMAJ12A
+Added Member To Class: ClassName=Sheet1 Member=Component MP2315S
+Added Member To Class: ClassName=Sheet1 Member=Component R1 300K
+Added Member To Class: ClassName=Sheet1 Member=Component R2 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R3 9.09K
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10R
+Added Member To Class: ClassName=Sheet1 Member=Component R5 20K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 40.2K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 7.5K
+Added Room: Name=Sheet1
