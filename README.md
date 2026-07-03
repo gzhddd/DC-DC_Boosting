@@ -1,4 +1,4 @@
-# DC-DC_Boosting
+# DC-DC_Buck
 ## MP2315S 降压型 DC-DC 电源模块
 
 ### 1. 模块简介
